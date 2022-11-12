@@ -52,7 +52,7 @@ App Name                   | Describe                  | Major Language         
 ### J  
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
-[Jellyfin](https://github.com/jellyfin/jellyfin-androidtv) | Jellyfin Android TV is a [Jellyfin](https://jellyfin.org/) client for Android TV, nVidia Shield, and Amazon Fire TV devices. | Java | [![Get it on Google Play](https://i.imgur.com/67WPUPF.png)](https://play.google.com/store/apps/details?id=org.jellyfin.androidtv)
+[Jellyfin](https://github.com/jellyfin/jellyfin-androidtv) | Jellyfin Android TV is a [Jellyfin](https://jellyfin.org/) client for Android TV, nVidia Shield, and Amazon Fire TV devices. | Java | [![Get it on Google Play](https://i.imgur.com/T9HnFlW.png)](https://play.google.com/store/apps/details?id=org.jellyfin.androidtv)
 
 ### K  
 App Name                   | Describe                  | Major Language             | Download 
@@ -97,7 +97,7 @@ App Name                   | Describe                  | Major Language         
 ### S  
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
- | | | 
+[SmartTubeNext](https://github.com/yuliskov/SmartTubeNext) | Ad free app for watching tube videos on Android TV boxes. It also has a **built-in updater**. | Java | [![Download it from Github Releases](https://i.ibb.co/jfdStgz/92813512-27f0bb80-f376-11ea-8562-ee2b3e416aec-resized.png)](https://github.com/yuliskov/SmartTubeNext/releases/latest)
 
 ### T  
 App Name                   | Describe                  | Major Language             | Download 
